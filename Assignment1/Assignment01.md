@@ -19,6 +19,7 @@ Each usability problem is rated using a scale based off the Nielson Norman Group
 ## 1. Visibility of System Status
 ### The system should always keep users informed about what is going on through efficient feedback.
 | Rating | Evaluation | Solution |
+| --- | --- | --- |
 | 0 | Text or cell highlights change color + mouse changes from an arrow to a pointer when hovering over clickable signifiers or text | N/A |  
 | 0 | Progress of course completion indicated on the side section (hamburger display) with checkmarks -- checkmarks for completed sections and current in-progress section highlighted in grey. | N/A |  
 | 1 | When viewing one of the main pages (e.g. "Courses", "Blog", "About Us", etc.) there is no indicator of what page you are viewing. | Would be helpful to highlight the cell or change the text color of the page that is currently being viewed, or display the words "Courses", "Blog", "About Us", etc. as a noticable title for each page. |  
