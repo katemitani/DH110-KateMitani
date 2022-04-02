@@ -13,7 +13,7 @@ Each usability problem is rated using a scale based off the Nielson Norman Group
 | 1 | Cosmetic Problem: need not be fixed unless extra time is available on project |
 | 2 | Minor Usability Problem: low priority to fix |
 | 3 | Major Usability Problem; top priority to fix |
-# Website 1: [Soundfly](https://soundfly.com/courses)
+# Website/App #1: [Soundfly](https://soundfly.com/courses)
 // describe website  
 // overall evaluation <br/>
 ## 1. Visibility of System Status
@@ -59,7 +59,7 @@ Each usability problem is rated using a scale based off the Nielson Norman Group
 ### Make accelerators hidden for novices but available for experts. Allows users to tailor frequent actions. 
 | Rating | Evaluation | Solution |
 | --- | --- | --- |
-| 0 | The system does a good job of keeping the material approachable, but providing additional features for more "advanced" users who decide to purchase subscriptions or utilize resources like mentors. These features do no clutter the interface or interfere with learning of novices. 
+| 0 | The system does a good job of keeping the material approachable, but providing additional features for more "advanced" users who decide to purchase subscriptions or utilize resources like mentors. These features do no clutter the interface or interfere with learning of novices. | N/A |  
 | 3 | There are no indications of difficulty levels for each course. Some are obvious as introductory courses or advanced courses, but some are more unclear. In addition, they are not sorted in any particular order. | Courses should indicate difficulty levels (easy, intermediate, hard, advanced) and sort them in ascending order. | <br/>
 ## 8. Aesthetic and Minimalist Design
 ### The layout and presentation of information should be easy on the eye and only highlight important points.
@@ -78,3 +78,64 @@ Each usability problem is rated using a scale based off the Nielson Norman Group
 | Rating | Evaluation | Solution |
 | --- | --- | --- |
 | 3 | There is no search or help section available in any page of Soundfly. The closest feature is the "Contact Us" tab located at the footer of the page. This makes it difficult for users to seek solutions if they encounter a problem. There aren't many instructions either, meaning the learning process is expected to be highly intuitive. While it may work for a majority, it is bound to confuse others. | There should be an FAQ, help, and search section available at all times. A search bar would allow users to easily navigate to their desired material, and a help section would result in a less stressful learning environment/process for users. | <br/>
+
+
+
+
+
+
+
+# Website/App #2: [The Ukulele App](https://play.google.com/store/apps/details?id=com.gmail.techdojo.The_Ukulele_App&hl=en_US&gl=US)
+// describe website  
+// overall evaluation <br/>
+## 1. Visibility of System Status
+### The system should always keep users informed about what is going on through efficient feedback.
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+
+
+## 2. Match Between System + Real World
+### The system should speak the user's langugage, use familiar concepts rather than system-oriented language, and make information appear in a natural + logical order.
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+
+## 3. User Control and Freedom
+### Should contain clearly marked exits that allow users to leave unwanted states. Helpful in the common occurance of navigation slips and mistakes. Should support undo and redo, and limit the amount of extended dialogue. 
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+
+## 4. Consistency and Standards
+### Users should not have to wonder whether different words, situations, or actions mean the same thing. Common functions, symbols, etc. that are utilized in most systems should be consistent for your system as well.
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+
+## 5. Error Prevention
+### System should implement a careful design that prevents a problem from occuring in the first place. Rather than simply displaying an error message, system should eliminate error prone conditions, constantly check for errors, and present users with a confirmation option before they commit to an action.
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+
+## 6. Recognition Rather Than Recall
+### Minimize the user's memory load by making objects, actions, and options visible. The user should not be required to memorize information. Instructions should be visible or easily accessible when needed. 
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+
+## 7. Flexibility and Efficiency of Use
+### Make accelerators hidden for novices but available for experts. Allows users to tailor frequent actions. 
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+
+## 8. Aesthetic and Minimalist Design
+### The layout and presentation of information should be easy on the eye and only highlight important points.
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+
+## 9. Help Users Recognize, Diagnose, and Recover From Errors
+### Error messages should be expressed in simple langugage, precisely identify the problem, and constructively suggest a solution.
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+
+## 10. Help and Documentation
+### Help should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large. For example, the help and FAQ should be easily found and accessible.
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+
