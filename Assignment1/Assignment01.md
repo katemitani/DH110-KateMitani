@@ -51,8 +51,30 @@ Each usability problem is rated using a scale based off the Nielson Norman Group
 | --- | --- | --- |
 | 1 | For the most part, Soundfly does not have much room for error. There is not a lot of user input required and the buttons to continue processes (i.e. "Done! What's Next?" button) are clear and communicate that you will be moving on to the next step. | Some minor improvement could be to implement a small message such as "Would you like to mark this section as complete?" with a "Do not show this message again." option. This reminds the user that this will permanently alter their progress records, but does not interfere too often with their user experience. | <br/>
 ## 6. Recognition Rather Than Recall
-### 
+### Minimize the user's memory load by making objects, actions, and options visible. The user should not be required to memorize information. Instructions should be visible or easily accessible when needed. 
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+| 2 | On the main course page, there are no indicators of which courses the user has completed or made progress on. This requires the user to keep track of all the course they've accessed on their own. | Progress bars should be displayed at the top of each course. | <br/>
 ## 7. Flexibility and Efficiency of Use
+### Make accelerators hidden for novices but available for experts. Allows users to tailor frequent actions. 
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+| 0 | The system does a good job of keeping the material approachable, but providing additional features for more "advanced" users who decide to purchase subscriptions or utilize resources like mentors. These features do no clutter the interface or interfere with learning of novices. 
+| 3 | There are no indications of difficulty levels for each course. Some are obvious as introductory courses or advanced courses, but some are more unclear. In addition, they are not sorted in any particular order. | Courses should indicate difficulty levels (easy, intermediate, hard, advanced) and sort them in ascending order. | <br/>
 ## 8. Aesthetic and Minimalist Design
+### The layout and presentation of information should be easy on the eye and only highlight important points.
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+| 0 | For the most part, the information is displayed appropriately, making the pages easy to navigate. For example, the courses display an informative title overlayed on top of a relevant but not-distracting graphic. When scrolled over with a mouse, a short course summary is displayed. | N/A |  
+| 1 | The courses are not displayed in a very intuitive order, especially for beginners. | The courses could be rearranged to a more logical order such as Play, Write, Produce, Discover, Hustle. |  
+| 1 | The course outline section is repetitive and not very informative. For example, the "How to Read Music" course displays the Section 5 outline simply as "Dots and Ties", "Recap of Dots and Ties", and "QUIZ: Test Yourself on Dots and Ties". | The sections could be renamed to more informative titles, or simply omitted altogether. | <br/>
 ## 9. Help Users Recognize, Diagnose, and Recover From Errors
+### Error messages should be expressed in simple langugage, precisely identify the problem, and constructively suggest a solution.
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+| 1 | For the quizzes at the end of each course section, wrong answers are highlighted in red with the message "try again", however only some quiz questions display a hint at the correct answer. | System should display hints that are productive to users' learning. A helpful hint could be about where to nagivate to in the course to locate the material that discusses the correct answer. | <br/>
 ## 10. Help and Documentation
+### Help should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large. For example, the help and FAQ should be easily found and accessible.
+| Rating | Evaluation | Solution |
+| --- | --- | --- |
+| 3 | There is no search or help section available in any page of Soundfly. The closest feature is the "Contact Us" tab located at the footer of the page. This makes it difficult for users to seek solutions if they encounter a problem. There aren't many instructions either, meaning the learning process is expected to be highly intuitive. While it may work for a majority, it is bound to confuse others. | There should be an FAQ, help, and search section available at all times. A search bar would allow users to easily navigate to their desired material, and a help section would result in a less stressful learning environment/process for users. | <br/>
