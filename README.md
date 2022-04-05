@@ -1,6 +1,2 @@
 # DH110-KateMitani
-text here
-
-## second header
-
-### third header
+DH110: User Experience and Design project
