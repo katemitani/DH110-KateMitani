@@ -144,10 +144,13 @@ Each usability problem is rated using a scale based off the Nielson Norman Group
 ### Error messages should be expressed in simple langugage, precisely identify the problem, and constructively suggest a solution.
 | Rating | Evaluation | Solution |
 | --- | --- | --- |
-| 3 |
+| 3 | When inputting something into the search function, an error message stating "No results found!" will appear if the input text does not match directly with any text in the app's content. | A more constructive error message would be one that provides suggestions about related searches or suggests the user retype and/or check spelling. | <br/>
 
 ## 10. Help and Documentation
 ### Help should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large. For example, the help and FAQ should be easily found and accessible.
 | Rating | Evaluation | Solution |
 | --- | --- | --- |
+| 2 | There is no FAQ, contact us for help, etc. within the app. | There should be a way for novice users to access a more extensive help page, not only for app usability, but also for the content (music learning). |  
+| 3 | While the help is always accessible from most pages (logo in the upper right corner), the text is extremely lengthy and uniform. | The help could be shorter as well as utilize bolding and spacing instead of displaying the information in paragraph form. Visuals can also be helpful, especially for instructions on how to utilize tools like the tuner. | 
+
 
