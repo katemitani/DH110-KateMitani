@@ -1,8 +1,8 @@
 # Music Learning Website/App for Middle Aged Men
 # Assignment 01: Heuristic Evaluation
 Kate Mitani  
-DH110  
-Spring 2022<br/>
+DH110 Spring 2022
+5 April 2022 <br/>
 
 ## Project Description
 Music something that transcends langugages, distances, physical or metaphorical barriers. Music is something that can be enjoyed with little to no knowledge of the technicalities, however some may wish to dive deeper. With this project, I intend to create more coherent and consistent learning environments/experiences for those seeking to develop a new skill. While this project is carried out with the persona of a middle-aged man as the average user, I believe the design changes should be able to establish a pleasant and intuitive experience for all users. 
