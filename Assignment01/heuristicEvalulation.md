@@ -17,6 +17,7 @@ Each usability problem is rated using a scale based off the Nielson Norman Group
 | 3 | Major Usability Problem; top priority to fix |
 
 # Website/App #1: [Soundfly](https://soundfly.com/courses)
+![alt text](![Screen Shot 2022-04-05 at 6 57 11 PM](https://user-images.githubusercontent.com/102703477/161880571-8e72bb08-79b9-46f6-8bc1-feb09fe3ef6b.png))
 Soundfly is a website designed to help established and aspiring musicians, producers, artists, and songwriters expand upon their knowledge and skills through a series of online courses. Soundfly incorporates videos, quizzes, and instructional material developed by a team of expert instructors. Course topics range from writing, producing, and hustling to playing and discovering. Users are able to create a free account that provides them access to a wide range of courses. Subscriptions and mentorship programs are also purchasable but not required.
 
 Soundfly has been regarded by many websites as one of the top music learning websites. While I was pleasantly surprised by the minimalist design and good use of signifiers, I felt as if this website exposed flaws the longer you interacted with it. For a website designed for long term usability and intended for users to continuously return, I believe there are some design and usability changes that can be made to improve user control + freedom and establish a system that gets better with use.  
