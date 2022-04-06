@@ -17,7 +17,7 @@ Each usability problem is rated using a scale based off the Nielson Norman Group
 | 3 | Major Usability Problem; top priority to fix |
 
 # Website/App #1: [Soundfly](https://soundfly.com/courses)
-(![Screen Shot 2022-04-05 at 6 57 11 PM](https://user-images.githubusercontent.com/102703477/161880571-8e72bb08-79b9-46f6-8bc1-feb09fe3ef6b.png)
+![Screen Shot 2022-04-05 at 6 57 11 PM](https://user-images.githubusercontent.com/102703477/161880571-8e72bb08-79b9-46f6-8bc1-feb09fe3ef6b.png)
 Soundfly is a website designed to help established and aspiring musicians, producers, artists, and songwriters expand upon their knowledge and skills through a series of online courses. Soundfly incorporates videos, quizzes, and instructional material developed by a team of expert instructors. Course topics range from writing, producing, and hustling to playing and discovering. Users are able to create a free account that provides them access to a wide range of courses. Subscriptions and mentorship programs are also purchasable but not required.
 
 Soundfly has been regarded by many websites as one of the top music learning websites. While I was pleasantly surprised by the minimalist design and good use of signifiers, I felt as if this website exposed flaws the longer you interacted with it. For a website designed for long term usability and intended for users to continuously return, I believe there are some design and usability changes that can be made to improve user control + freedom and establish a system that gets better with use.  
@@ -52,7 +52,7 @@ Soundfly has been regarded by many websites as one of the top music learning web
 | Rating | Evaluation | Solution |
 | --- | --- | --- |
 | 1 | On the course info page, the timer and sections icons are not clickable. They mimic common signifiers but do not perform the expected function. Similarly, the sections under "Course Outline" on the course info page are not clickable. | Make these signifiers clickable, or alter their appearance to diverge from common signifiers. |  
-| 1 | The keywords below the instructor profile on the course info page are nto clickable, but will highlight when hovered over with a mouse. | Change the shape or color so they no longer represent a typical keyword function bubble. |  
+| 1 | The keywords below the instructor profile on the course info page are not clickable, but will highlight when hovered over with a mouse. | Change the shape or color so they no longer represent a typical keyword function bubble. |  
 | 3 | When in the middle of a course, users are unable to click on the SOUNDFLY logo at the top to return to the main page. This is a standard that is largely consistent across all online platforms. The function is even present in other pages on the Soundfly website, however it does not work for the in progress course pages. | Make the logo clickable on the in progress course pages to redirect back to the home page. | <br/>
 
 ## 5. Error Prevention
@@ -112,8 +112,8 @@ Overall, I found this app to be extremely difficult to work with, especially as 
 ### The system should speak the user's langugage, use familiar concepts rather than system-oriented language, and make information appear in a natural + logical order.
 | Rating | Evaluation | Solution |
 | --- | --- | --- |
-| 2 | The icons for the main menu are pretty standard and familiar, however the icons within each sub-section is less clear. For example, the sub-sections for "latest", "uke blog", "sort by playlist", etc. are all the same icon (a play button in a circle). | It would be more effective to have icons that communicate the contents of each sub-section, such that it is clear that one contains a list of playlists, another contains all songs in the catalog in alphabetical order, etc. |
-| 3 | The "Tools" are extremely unintuitive to learn, especially for beginners. Not only do they include very little instruction on how to operate each tool, but it also implements controls that do not mimic a real world guitar. For example, you have to tap, hold, and slide up and down to change between variations of a chord, and tap on a string to strum the note. | Controls that simulated a real guitar, such as swiping to strum would provide a more intuitive interface for users. | <br/>
+| 2 | The icons for the main menu are pretty standard and familiar, however the icons within each sub-section is less clear. For example, the sub-sections for "latest", "uke blog", "sort by playlist", etc. are all the same icon (a play button in a circle). | It would be more effective to have icons that communicate the contents of each sub-section, so that it is clear that one contains a list of playlists, another contains all songs in the catalog in alphabetical order, etc. |
+| 3 | The "Tools" are extremely unintuitive to learn, especially for beginners. Not only do they include very little instruction on how to operate each tool, but it also implements controls that do not mimic a real world guitar. For example, you have to tap, hold, and slide up and down to change between variations of a chord, and tap on a string to strum the note. | Controls that simulated a real guitar, such as swiping to strum, would provide a more intuitive interface for users. | <br/>
 
 ## 3. User Control and Freedom
 ### Should contain clearly marked exits that allow users to leave unwanted states. Helpful in the common occurance of navigation slips and mistakes. Should support undo and redo, and limit the amount of extended dialogue. 
@@ -126,7 +126,7 @@ Overall, I found this app to be extremely difficult to work with, especially as 
 | Rating | Evaluation | Solution |
 | --- | --- | --- |
 | 1 | The search bar is not consistently present. Instead it is a sub-section within certain sections on the home page. | Can be improved by adding a search feature somewhere consistent such as the upper right hand corner. |
-| 2 | Dialogue is not dismissible by an X like most users are familiar with. Instead, they are dismissible by icons such as a back arrow, clicking on a face icon, or tapping an "Ok" button. | It would be more consistent and familiar if all collapse/dismiss features were performed by tapping an X icon. 
+| 2 | Dialogue is not dismissible by an X like most users are familiar with. Instead, they are dismissible by icons such as a back arrow, clicking on a face icon, or tapping an "Ok" button. | It would be more consistent and familiar if all collapse/dismiss features were performed by tapping an X icon. |  
 | 1 | To access the main home page from the welcome page, you have to swipe up. Most apps utilize a tap function, or simply begin on the home page and omit a welcome page altogether. | If the developers would like to keep the welcome page for whatever reason, they could design it so that the welcome page loads for a few seconds before disappearing to be replaced by the main home page. The swipe function could also just be replaced by a tap function. | <br/>
 
 ## 5. Error Prevention
