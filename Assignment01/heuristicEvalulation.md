@@ -173,6 +173,6 @@ Overall, I found this app to be extremely difficult to work with, especially as 
 
 ## Assignment 1 Formatting References
 ### Emily Dong, DH110 Spring 2021
-https://github.com/emilydong001/DH110/blob/main/ASsignments/Assignment01.md
+https://github.com/emilydong001/DH110/blob/main/Assignments/Assignment01.md
 ### Joy Hsieh, DH110 Spring 2021
 https://github.com/JoyHsieh/DH110-JoyHsieh/blob/main/README.md
