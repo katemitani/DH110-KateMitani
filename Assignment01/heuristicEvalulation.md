@@ -96,7 +96,7 @@ Soundfly has been regarded by many websites as one of the top music learning web
 
 
 # Website/App #2: [The Ukulele App](https://play.google.com/store/apps/details?id=com.gmail.techdojo.The_Ukulele_App&hl=en_US&gl=US)  
-![Screenshot 2022-04-05 at 7 00 21 PM](https://user-images.githubusercontent.com/102703477/161880761-dfbefb38-ca4e-4ecb-8ede-b98b57484a35.png)
+![Screenshot 2022-04-05 at 7 00 21 PM](https://user-images.githubusercontent.com/102703477/161880761-dfbefb38-ca4e-4ecb-8ede-b98b57484a35.png | height = 400)
 Created by famous Youtuber "The Ukulele Teacher," this app is designed for beginners seeking an introducion to playing the ukulele. The app contains a variety of videos to learn your favorite songs, a catalog of lessons to learn the basics of the ukulele, and a number of tools to assist with playing. 
 
 Overall, I found this app to be extremely difficult to work with, especially as someone with no knowledge about music or the ukulele. S tince the app was created by the most popular ukuklele teacher on Youtube, the app consists primarily of his own Youtube videos. This results in a lot of features redirecting users to the Youtube app, often without warning. In addition, the controls tended to not be very intuitive, sometimes even diverging from industry and culural standards. I felt that there were a lot of aesthetic issues with the website design as well that could use a lot of work. While I believe the app has a lot of potential and good content, there are many areas that hinder a seamless user experience, primarily in regards to minimalist design, error prevention, and help + documentation. 
