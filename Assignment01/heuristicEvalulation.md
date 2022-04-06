@@ -1,7 +1,7 @@
 # Improving Music Learning for Middle Aged Men
 # Assignment 01: Heuristic Evaluation
 Kate Mitani  
-DH110 Spring 2022
+DH110 Spring 2022  
 5 April 2022 <br/>
 
 ## Project Description
