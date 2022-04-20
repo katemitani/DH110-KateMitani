@@ -34,10 +34,10 @@ DH110 Spring 2022
   2. Walk me through the process of how you would learn a particular song.
 
 ## Step 4: Interview + Participatory Observation Guide
-[Link](https://docs.google.com/document/d/1wjLpkrpbZMf_puVqfLWbl-EEnRlRPFeIXDu4LM5yQXc/edit?usp=sharing) to interview script
+[Link](https://docs.google.com/document/d/1wjLpkrpbZMf_puVqfLWbl-EEnRlRPFeIXDu4LM5yQXc/edit?usp=sharing) to contextual inquiry script
 ## Step 5: Research Data and Notes
-[Link](https://docs.google.com/document/d/1wMCW9EvLX_jE-2eLwaPcdrYZjoA7LSr5UGtWDyruZFI/edit?usp=sharing) to full interview and participatory observation transcription  
-[Link](https://drive.google.com/file/d/1jx7dJy8OPAxDKFOpAPpz0nxBfUO4PBF7/view?usp=sharing) to full audio recording
+[Link](https://docs.google.com/document/d/1wMCW9EvLX_jE-2eLwaPcdrYZjoA7LSr5UGtWDyruZFI/edit?usp=sharing) to contextual inquiry transcription  
+[Link](https://drive.google.com/file/d/1jx7dJy8OPAxDKFOpAPpz0nxBfUO4PBF7/view?usp=sharing) to contextual inquiry audio recording
 ### Some interesting  quotes and insights:
 - The user has had experience with both music lessons and self-taught techniques such as Youtube. Acknowledges that Youtube/digital content is very accessible.  
 > I was learning music before the internet was really a thing for [learning] music, and as a result, my experience learning music was isolated to just my music teachers. If I had to give an answer I would say Youtube, because…everything is available. I imagine that’s also the case for other instruments as well. <br/> 
