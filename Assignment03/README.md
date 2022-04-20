@@ -36,7 +36,7 @@ DH110 Spring 2022
 ## Step 4: Interview + Participatory Observation Guide
 [Link](https://docs.google.com/document/d/1wjLpkrpbZMf_puVqfLWbl-EEnRlRPFeIXDu4LM5yQXc/edit?usp=sharing) to interview script
 ## Step 5: Research Data and Notes
-[Link](https://docs.google.com/document/d/1wMCW9EvLX_jE-2eLwaPcdrYZjoA7LSr5UGtWDyruZFI/edit?usp=sharing) to full interview and participatory observation transcription
+[Link](https://docs.google.com/document/d/1wMCW9EvLX_jE-2eLwaPcdrYZjoA7LSr5UGtWDyruZFI/edit?usp=sharing) to full interview and participatory observation transcription  
 [Link](https://drive.google.com/file/d/1jx7dJy8OPAxDKFOpAPpz0nxBfUO4PBF7/view?usp=sharing) to full audio recording
 ### Some interesting  quotes and insights:
 - The user has had experience with both music lessons and self-taught techniques such as Youtube. Acknowledges that Youtube/digital content is very accessible.  
