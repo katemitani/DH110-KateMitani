@@ -1,7 +1,7 @@
 # Assignment 03: Contextual Inquiry
-Kate Mitani
-DH110 Spring 2022
-19 April 2022
+Kate Mitani  
+DH110 Spring 2022  
+19 April 2022  
 
 ## Step 1: Specify the Research Goals and Requirements
 ### What is the main activity your project would support for the user?
