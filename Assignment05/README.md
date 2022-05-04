@@ -17,6 +17,9 @@ The features and tasks that this low fidelity prototype would support were estab
 
 
 ## Prototype
+![IMG_1595](https://user-images.githubusercontent.com/102703477/166606314-863a92b8-adb9-44da-8101-9637596345da.PNG)
+![IMG_1596](https://user-images.githubusercontent.com/102703477/166606324-78028db1-7b78-49ef-83d8-d2de1d7e1fac.PNG)
+
 
 ## Prototype Testing
 
