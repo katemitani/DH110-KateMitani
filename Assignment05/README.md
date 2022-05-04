@@ -22,15 +22,19 @@ The features and tasks that this low fidelity prototype would support were estab
 
 
 ## Prototype Testing
+![IMG_1598 2](https://user-images.githubusercontent.com/102703477/166641327-a5f1a2c1-a6b0-41c7-accf-73ec5e299c33.jpg)
+![IMG_1597 2](https://user-images.githubusercontent.com/102703477/166641311-4f9c4540-6b6d-4553-a013-9da4d9c0c4c5.jpg)
 
 ## Reflection
 What went smoothly
-> s
+> I really enjoyed the process of creating prototypes and illustrating the feature designs that I had imagined while creating my personas/usage scenarios. I was satisfied with wireflow I had anticipated my participant to make. While preparing for my participant test, I was concerned that my participant wouldn't gain an accurate understanding of the feature's purpose, however he was able to implement the actions I had anticipated without much guidance. For my first task, I had included a few additional wireframes in case my participant took the wrong action, however he did end up choosing the actions that resulted in the least amount of time, thus indicating that the feature is relatively straightforward.  
 
 What went differently than expected
-> s
+> One of the main usability errors that appeared to stand out was the visibility of important information that I wanted the user to notice. For example, for task 1 (create a new notebook), I had my user start from the main homescreen. He failed to immediately notice the notebook icon in the upper right hand corner, and rather thought to click on the "tools" feature. This provides insight into how completely new users to the Ukulele App may interpret the features of the app. In a similar vein, my participant stalled a lot on task 2 (find variation 3 of the C major chord and add it to a group). He didn't notice the "1/32" in the bottom section underneat the "C Major" title, thus he didn't understand what the "1/32", "2/32" and "3/32" above the arrows meant. He eventually figured it out, but it took a bit of time for him to scan the rest of the features and infer what the arrows meant. In retrospect, this may be a problem for novices who are unfamiliar with the fact that there are many variations to view for each chord.  
 
 What changes I would make to my prototype
-> s
-
-
+> 1. Create an additional icon on the homepage (under "Lessons" and above "Tools") to access the notebook feature. This would be more intuitive, since a new user is likely to scan these items before looking in the upper right corner for the notebook and help icons.  
+> 2. Add a "done" or "create" button to finalize the notebook entry. This is more obvious, but was simply a feature I forgot to implement in my mockup of the prototype.  
+> 3. For the chord library tool, make a few of the important texts larger and more noticeable (e.g. the number of variations below the chord title).  
+> 4. Add subtitles "next chord" and "previous chord" to the arrows that switch between chord variations.  
+> 5. For the grouping function, change the wording of "add chord" to "add to group." My user was confused about the point of "view group." I intended the feature to be there when a user wanted to simply view a group that they had already created, but could not figure out if this should be separate from the icon that would allow the user to also create a new group. I think that differentiating between "view groups" and "add to group" will provide a bit more clarity of the feature's intentions.   
