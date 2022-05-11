@@ -48,6 +48,18 @@ When looking to some of my favorite and most-used apps for inspiration (GoodNote
 I decided on using white with a subtle usage of a monochromatic color scheme for accent colors in order to achieve a minimalist design. In efforts to achieve some resemblance of the original Ukulele App design, I imported a screenshot of the original interface to a color picker website and isolated the main teal color. This left me with an accent teal (HEX #37545B). I adjusted the tone and tint of the color to achieve a muted, brighter (whiter) version of this teal as my second accent color (HEX #58858B). As a subtler detail, I added a solid black overlay that I toned down to 25% transparency to achieve the darkened background that occurs behind a pop-up window to emphasize the content. This was overlayed on top of the page but underneath the window, resulting in the tinted background.   
 
 ### Impression Test  
+My participant did not want to have a recording shared, so here is the [transcript of the impression test](https://docs.google.com/document/d/1bcK5Vo78qd7GR46oQqpz-QZnGv4zeix23M50pb3R9UU/edit?usp=sharing)  
+
+In my impression test, I showed my participant the first screen of my prototype (Notebook page), and then a few pages of task 1 (create notebook). For the first page, I showed my participant the screen for about 5-10 seconds and then asked them to give me their first impressions. Their feedback was:
+- Looks very simple, kind of like a draft. Needs more icons, color, or definition
+- Eyes did not go to the bottom menu bar. If the color was brighter or less muted/close to gray they would notice it more
+- Didn't think the rectangles for the notebooks were very useful. Thought there should be something else, like thumbnails of the notebook contents (e.g. something similar to Google docs)
+- Too much blank white space
+- Most familiar with apps like Google Notes, Google Drive, Excel, etc., and when comparing to that it feels very plain  
+
+Summary:  
+Overall, my participant found it intuitive but too simple. Interestingly, I had ended up changing the color scheme to be a bit darker due to the results of the contrast/accessibility check. However, my participant noted that it looked black and white and not teal and white--so, while it passed the accessibility checker, it wasn't the most aesthetically pleasing. For changes for a future iteration, I plan on adjusting the color scheme a bit more, adding more visually pleasing design elements to the notebooks themeselves (such as icons, realistic notebooks, thumbnails, etc.) and possibly adjusting the text sizes to be a bit larger and more visible.  
+
 ### Accessibility Check  
 <img src="https://user-images.githubusercontent.com/102703477/167785242-ae18a49d-5df5-4929-a034-1aa0d968fdbc.png" width="500"> <img src="https://user-images.githubusercontent.com/102703477/167785251-f4cae109-d460-41e0-b633-14a844ec1b28.png" width="500">
 
