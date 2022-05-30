@@ -229,9 +229,13 @@
               </div>
               <div class="u-size-30">
                 <div class="u-layout-row">
-                  <div class="u-container-style u-hover-feature u-image u-layout-cell u-radius-50 u-right-cell u-size-28 u-image-2" src="ScreenShot2022-05-30at2.18.05AM.png" data-image-width="652" data-image-height="554" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
-                    <div class="u-container-layout u-container-layout-3"></div>
-                  </div>
+			<div class="u-container-style u-layout-cell u-left-cell u-size-28 u-layout-cell-4" data-href="https://github.com/katemitani/DH110-				Spring22/tree/main/Assignment06">
+				<div class="u-container-layout u-container-layout-3">
+                      			<img class="u-expanded-height u-hover-feature u-image u-image-round u-radius-50 u-image-2" src="ScreenShot2022-05-30at2.18.05AM.png" data-image-width="652" data-image-height="554" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
+                    			</div>
+			
+			
+      
                   <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-32 u-layout-cell-4">
                     <div class="u-container-layout u-valign-top u-container-layout-4">
                       <h2 class="u-custom-font u-font-playfair-display u-text u-text-3">Interface Design</h2>
