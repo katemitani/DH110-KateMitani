@@ -97,7 +97,7 @@
                 <div class="u-layout-row">
                   <div class="u-align-left u-container-style u-layout-cell u-left-cell u-radius-50 u-size-15 u-layout-cell-1" src="">
                     <div class="u-container-layout u-valign-top u-container-layout-1">
-                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="image.png" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
+                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="images/image.png" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
                     </div>
                   </div>
                   <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-45 u-layout-cell-2">
@@ -131,7 +131,7 @@
                   </div>
                   <div class="u-container-style u-layout-cell u-right-cell u-size-17 u-layout-cell-4" src="">
                     <div class="u-container-layout u-valign-middle u-container-layout-4">
-                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-2" src="image1.png" data-image-width="739" data-image-height="1600" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment02">
+                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-2" src="images/image1.png" data-image-width="739" data-image-height="1600" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment02">
                     </div>
                   </div>
                 </div>
@@ -173,7 +173,7 @@
                 <div class="u-layout-row">
                   <div class="u-container-style u-layout-cell u-left-cell u-size-20 u-layout-cell-3" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment04">
                     <div class="u-container-layout u-container-layout-3">
-                      <img class="u-expanded-height u-hover-feature u-image u-image-round u-radius-50 u-image-1" src="1.png" data-image-width="1131" data-image-height="1600" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment04">
+                      <img class="u-expanded-height u-hover-feature u-image u-image-round u-radius-50 u-image-1" src="images/1.png" data-image-width="1131" data-image-height="1600" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment04">
                     </div>
                   </div>
                   <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-40 u-layout-cell-4" src="">
@@ -229,7 +229,7 @@
                   </div>
                   <div class="u-container-style u-layout-cell u-left-cell u-radius-50 u-size-20 u-layout-cell-2" src="">
                     <div class="u-container-layout u-valign-middle u-container-layout-2">
-                      <img class="u-expanded-width u-hover-feature u-image u-image-round u-radius-50 u-border-grey-25 u-border-2 u-image-1" src="166641311-4f9c4540-6b6d-4553-a013-9da4d9c0c4c5.jpg" data-image-width="2323" data-image-height="1665" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment05">
+                      <img class="u-expanded-width u-hover-feature u-image u-image-round u-radius-50 u-border-grey-25 u-border-2 u-image-1" src="images/166641311-4f9c4540-6b6d-4553-a013-9da4d9c0c4c5.jpg" data-image-width="2323" data-image-height="1665" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment05">
                     </div>
                   </div>
                 </div>
@@ -330,7 +330,19 @@
       <style data-mode="XS"></style>
     </section>
     
-    
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-bd63"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the Text Element.</p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
     </section>
   </body>
 </html>
