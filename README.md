@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="DH110: UX Research and Design, Redesign of the Ukulele App by Kate Mitani, Introduction, Design Statement, Competitor Analysis: Heuristic Evaluation, Usability Testing, Contextual Inquiry, UX Storytelling: Personas, Journey Maps, and Usage Scenarios, Wireframing + Low Fidelity Prototype, Interface Design, High Fidelity Prototype, Video Pitch, Conclusion">
+    <meta name="keywords" content="DH110: User Experienceand Design, Redesign of the Ukulele App by Kate Mitani, Introduction, Design Statement, Competitor Analysis: Heuristic Evaluation, Usability Testing, Contextual Inquiry, UX Storytelling: Personas, Journey Maps, and Usage Scenarios, Wireframing + Low Fidelity Prototype, Interface Design, High Fidelity Prototype, Video Pitch, Conclusion">
     <meta name="description" content="">
     <title>Home</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
@@ -33,10 +33,11 @@
     <meta property="og:type" content="website">
   </head>
   <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-xl-mode">
-    <section class="u-align-center u-clearfix u-gradient u-section-1" id="sec-e113">
+    <section class="u-align-center u-clearfix u-image u-shading u-section-1" id="sec-e113" data-image-width="1600" data-image-height="900">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h1 class="u-custom-font u-font-playfair-display u-text u-text-default u-title u-text-1">DH110: UX Research and Design</h1>
-        <h2 class="u-custom-font u-font-playfair-display u-subtitle u-text u-text-2">Redesign of the Ukulele App by Kate Mitani</h2>
+        <h1 class="u-custom-font u-font-playfair-display u-text u-text-body-alt-color u-text-default u-title u-text-1">DH110: User Experience<br>and Design
+        </h1>
+        <h2 class="u-custom-font u-font-playfair-display u-subtitle u-text u-text-body-alt-color u-text-2">Redesign of the Ukulele App by Kate Mitani</h2>
       </div>
     </section>
     <section class="u-align-center u-clearfix u-section-2" id="sec-cde5">
@@ -197,8 +198,8 @@
       
     </section>
     <section class="u-clearfix u-section-6" id="sec-7600">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
           <div class="u-layout">
             <div class="u-layout-col">
               <div class="u-size-30">
@@ -229,9 +230,8 @@
                     </div>
                   </div>
                   <div class="u-container-style u-layout-cell u-left-cell u-radius-50 u-size-20 u-layout-cell-2" src="">
-                    <div class="u-container-layout u-container-layout-2">
-                      <img class="u-expanded-width u-hidden-lg u-hover-feature u-image u-image-round u-radius-50 u-border-grey-25 u-border-2 u-image-1" src="166641311-4f9c4540-6b6d-4553-a013-9da4d9c0c4c5.jpg" data-image-width="2323" data-image-height="1665" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment05">
-                      <img class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-hover-feature u-image u-image-round u-radius-50 u-border-grey-15 u-border-2 u-image-2" src="166641311-4f9c4540-6b6d-4553-a013-9da4d9c0c4c51.jpg" alt="" data-image-width="2323" data-image-height="1665">
+                    <div class="u-container-layout u-valign-middle-xl u-container-layout-2">
+                      <img class="u-expanded-width u-hover-feature u-image u-image-round u-radius-50 u-border-grey-25 u-border-2 u-image-1" src="166641311-4f9c4540-6b6d-4553-a013-9da4d9c0c4c5.jpg" data-image-width="2323" data-image-height="1665" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment05">
                     </div>
                   </div>
                 </div>
@@ -240,7 +240,7 @@
                 <div class="u-layout-row">
                   <div class="u-container-style u-hover-feature u-layout-cell u-radius-50 u-right-cell u-size-25 u-layout-cell-3" src="" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
                     <div class="u-container-layout u-valign-middle u-container-layout-3">
-                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-3" src="ScreenShot2022-05-30at2.18.05AM.png" data-image-width="652" data-image-height="554" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
+                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-2" src="ScreenShot2022-05-30at2.18.05AM.png" data-image-width="652" data-image-height="554" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
                     </div>
                   </div>
                   <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-35 u-layout-cell-4">
@@ -263,10 +263,9 @@
       
       
       
-      
     </section>
     <section class="u-clearfix u-section-7" id="sec-eca5">
-      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
+      <div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1">
           <div class="u-layout">
             <div class="u-layout-col">
@@ -303,7 +302,7 @@
     </section>
     <section class="u-align-center u-clearfix u-section-8" id="sec-f213">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h1 class="u-custom-font u-font-playfair-display u-text u-text-default u-text-1">Video Pitch</h1>
+        <h1 class="u-custom-font u-font-playfair-display u-text u-text-default-xl u-text-1">Video Pitch</h1>
         <div class="u-align-left u-expanded-width-sm u-expanded-width-xs u-video u-video-1">
           <div class="embed-responsive embed-responsive-1">
             <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" class="embed-responsive-item" src="https://www.youtube.com/embed/L-hm3S1aSnI?mute=0&amp;showinfo=0&amp;controls=0&amp;start=0" frameborder="0" allowfullscreen=""></iframe>
@@ -355,4 +354,3 @@
     </section>
   </body>
 </html>
-
