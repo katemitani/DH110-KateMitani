@@ -68,8 +68,8 @@
                       <h2 class="u-custom-font u-font-playfair-display u-text u-text-1">Design Statement</h2>
                       <p class="u-custom-font u-font-montserrat u-text u-text-2">
                         <span style="font-weight: 700;"></span><b>
-                          <span style="font-weight: 400;">Through t</span>
-                          <span style="font-weight: 400;">he process of user experience evaluation and testing, I identified a few usability concerns for the Ukulele App. To begin, the app contains a lot of information but is difficult and time consuming to navigate. For example, many of the resources are nested within pages, requiring a user to undo/return multiple times to navigate back to the main home page or switch to a different page. In addition, the app makes it difficult to document progress or keep track of favorite materials. Finally, there are a few usability concerns relating to divergence from industry standards and real world controls. In my project, I aim to eliminate these concerns to create a more intuitive interface that supports an optimal learning environment.&nbsp;</span></b>
+                          <span style="font-weight: 400;">Through </span>
+                          <span style="font-weight: 400;">the process of user experience evaluation and testing, I identified a few usability concerns for the Ukulele App. To begin, the app contains a lot of information but is difficult and time consuming to navigate. For example, many of the resources are nested within pages, requiring a user to undo/return multiple times to navigate back to the main home page or switch to a different page. In addition, the app makes it difficult to document progress or keep track of favorite materials. Finally, there are a few usability concerns relating to divergence from industry standards and real world controls. In my project, I aim to eliminate these concerns to create a more intuitive interface that supports an optimal learning environment.&nbsp;</span></b>
                       </p>
                     </div>
                   </div>
@@ -89,8 +89,7 @@
                 <div class="u-layout-row">
                   <div class="u-align-left u-container-style u-layout-cell u-left-cell u-radius-50 u-size-15 u-layout-cell-1" src="">
                     <div class="u-container-layout u-valign-top u-container-layout-1">
-                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="![image](https://user-images.githubusercontent.com/102703477/170976001-df0edb40-af5c-446e-bfef-31d676e6bef1.png)
-" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
+                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="image.png" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
                       <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
                     </div>
                   </div>
@@ -125,7 +124,7 @@
                   </div>
                   <div class="u-container-style u-layout-cell u-right-cell u-size-17 u-layout-cell-4" src="">
                     <div class="u-container-layout u-valign-middle u-container-layout-4">
-                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-2" src="images/image1.png" data-image-width="739" data-image-height="1600" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment02">
+                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-2" src="image1.png" data-image-width="739" data-image-height="1600" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment02">
                     </div>
                   </div>
                 </div>
@@ -167,7 +166,7 @@
                 <div class="u-layout-row">
                   <div class="u-container-style u-layout-cell u-left-cell u-size-20 u-layout-cell-3" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment04">
                     <div class="u-container-layout u-container-layout-3">
-                      <img class="u-expanded-height u-hover-feature u-image u-image-round u-radius-50 u-image-1" src="images/1.png" data-image-width="1131" data-image-height="1600" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment04">
+                      <img class="u-expanded-height u-hover-feature u-image u-image-round u-radius-50 u-image-1" src="1.png" data-image-width="1131" data-image-height="1600" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment04">
                     </div>
                   </div>
                   <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-40 u-layout-cell-4" src="">
@@ -223,14 +222,14 @@
                   </div>
                   <div class="u-container-style u-layout-cell u-left-cell u-radius-50 u-size-20 u-layout-cell-2" src="">
                     <div class="u-container-layout u-valign-middle u-container-layout-2">
-                      <img class="u-expanded-width u-hover-feature u-image u-image-round u-radius-50 u-border-grey-25 u-border-2 u-image-1" src="images/166641311-4f9c4540-6b6d-4553-a013-9da4d9c0c4c5.jpg" data-image-width="2323" data-image-height="1665" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment05">
+                      <img class="u-expanded-width u-hover-feature u-image u-image-round u-radius-50 u-border-grey-25 u-border-2 u-image-1" src="166641311-4f9c4540-6b6d-4553-a013-9da4d9c0c4c5.jpg" data-image-width="2323" data-image-height="1665" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment05">
                     </div>
                   </div>
                 </div>
               </div>
               <div class="u-size-30">
                 <div class="u-layout-row">
-                  <div class="u-container-style u-hover-feature u-image u-layout-cell u-radius-50 u-right-cell u-size-28 u-image-2" src="" data-image-width="652" data-image-height="554" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
+                  <div class="u-container-style u-hover-feature u-image u-layout-cell u-radius-50 u-right-cell u-size-28 u-image-2" src="ScreenShot2022-05-30at2.18.05AM.png" data-image-width="652" data-image-height="554" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
                     <div class="u-container-layout u-container-layout-3"></div>
                   </div>
                   <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-32 u-layout-cell-4">
@@ -275,7 +274,7 @@
                       <a href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment07" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-1">learn more</a>
                     </div>
                   </div>
-                  <div class="u-container-style u-hover-feature u-image u-layout-cell u-left-cell u-radius-50 u-size-18 u-image-1" src="" data-image-width="768" data-image-height="926" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment07">
+                  <div class="u-container-style u-hover-feature u-image u-layout-cell u-left-cell u-radius-50 u-size-18 u-image-1" src="ScreenShot2022-05-30at2.19.51AM.png" data-image-width="768" data-image-height="926" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment07">
                     <div class="u-container-layout u-container-layout-2"></div>
                   </div>
                 </div>
