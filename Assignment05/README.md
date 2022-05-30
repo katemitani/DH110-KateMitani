@@ -11,7 +11,7 @@ I established two personas to identify a few key characteristics of my target de
 Full personas and usage scenarios can be found [here](https://github.com/katemitani/DH110-Spring22/tree/main/Assignment04).
 ### Features & Tasks
 The features and tasks that this low fidelity prototype would support were established based on previous user research of the Ukulele App, including usability tests, contextual inquiry, and heuristic evaluations. These features are intended to assist users by allowing them to track their progress, store notes and important materials within the app, and utilize tools in an efficient and intuitive way. 
-1. A notebook app that would allow users to keep track of their favorite video tutorials on the app, add notes, and track their learning progress
+1. A notebook feature that would allow users to keep track of their favorite video tutorials on the app, add notes, and track their learning progress
 2. A "chord grouping" feature that would allow users to minimize stress when viewing an overwhelming amount of new information. The group feature would allow users to note any difficult material that they wish to review, document, or save for later. 
 3. A more intuitive design for the "chord library" tool that more closely matches the real world and industry standards. 
 
