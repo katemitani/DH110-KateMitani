@@ -288,7 +288,9 @@
                   </div>
                   <div class="u-container-style u-hover-feature u-layout-cell u-left-cell u-radius-50 u-size-14 u-layout-cell-2" src="" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment07">
                     <div class="u-container-layout u-valign-middle u-container-layout-2">
-                      <img class="u-expanded-width u-hover-feature u-image u-image-round u-radius-50 u-image-1" src="ScreenShot2022-05-30at2.19.51AM.png" data-image-width="768" data-image-height="926" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment07">
+			<div class="embed-responsive embed-responsive-16by9">
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXTNQjEGBevrlYfaMBBQryM%2FDH110-Prototype%3Fnode-id%3D145%253A3737%26scaling%3Dmin-zoom%26page-id%3D144%253A2601%26starting-point-node-id%3D145%253A3737" allowfullscreen></iframe>
+			
                     </div>
                   </div>
                 </div>
