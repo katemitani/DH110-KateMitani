@@ -7,8 +7,8 @@ DH110 Spring 2022
 ## Project Description
 Music is something that transcends languages, distances, and physical or metaphorical barriers. Music is unique in that it can be enjoyed with little to no knowledge of the technicalities--however, some may wish to dive deeper. With this project, I intend to create more coherent and consistent learning environments/experiences for those seeking to develop a new skill. While this project is carried out with the persona of a middle-aged man as the average user, I believe the design changes should be able to establish a pleasant and intuitive experience for all users. 
 
-## Severity Ratings For Usability Problems - [Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
-Each usability problem is rated using a scale based off the Nielson Norman Group severity rating scale for usability problems. These ratings take into account the **frequency** of the problem's occurance, the **impact** of the problem on the user, and the **persistence** of the problem throughout the user's process.
+## Severity Ratings For Usability Problems - [Nielsen Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
+Each usability problem is rated using a scale based off the Nielsen Norman Group severity rating scale for usability problems. These ratings take into account the **frequency** of the problem's occurance, the **impact** of the problem on the user, and the **persistence** of the problem throughout the user's process.
 | Severity Rating | Description |
 | --- | --- |
 | 0 | No Issues: well designed features |
