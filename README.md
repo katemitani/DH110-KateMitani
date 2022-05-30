@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html style="font-size: 16px;">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -89,7 +89,9 @@
                 <div class="u-layout-row">
                   <div class="u-align-left u-container-style u-layout-cell u-left-cell u-radius-50 u-size-15 u-layout-cell-1" src="">
                     <div class="u-container-layout u-valign-top u-container-layout-1">
-                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="images/image.png" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
+                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="![image](https://user-images.githubusercontent.com/102703477/170976001-df0edb40-af5c-446e-bfef-31d676e6bef1.png)
+" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
+                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
                     </div>
                   </div>
                   <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-45 u-layout-cell-2">
