@@ -10,11 +10,21 @@ The goal of this project is to improve users' experiences with learning music. I
 I established two personas to identify a few key characteristics of my target demographic: middle-aged men (often fathers) seeking to pick up a new hobby for self improvement, not very tech-savvy, very busy, desire something accessible and time/cost friendly. They would require methods of learning that can be easily put down and picked up, and do not require excessive amounts of materials.  
 Full personas and usage scenarios can be found [here](https://github.com/katemitani/DH110-Spring22/tree/main/Assignment04).
 ### Features & Tasks
-The features and tasks that this low fidelity prototype would support were established based on previous user research of the Ukulele App, including usability tests, contextual inquiry, and heuristic evaluations. These features are intended to assist users by allowing them to track their progress, store notes and important materials within the app, and utilize tools in an efficient and intuitive way. 
-1. A notebook feature that would allow users to keep track of their favorite video tutorials on the app, add notes, and track their learning progress
-2. A "chord grouping" feature that would allow users to minimize stress when viewing an overwhelming amount of new information. The group feature would allow users to note any difficult material that they wish to review, document, or save for later. 
-3. A more intuitive design for the "chord library" tool that more closely matches the real world and industry standards. 
+The features and tasks that this low fidelity prototype would support were established based on previous user research of the Ukulele App, including usability tests, contextual inquiry, and heuristic evaluations. These features are intended to assist users by allowing them to track their progress, store notes and important materials within the app, and utilize tools in an efficient and intuitive way.  
 
+I identified **three features** to focus on:
+1. A notebook feature that would allow users to keep track of their favorite video tutorials on the app, add notes, and track their learning progress
+    - With the current interface design, it is difficult to quickly switch between various music learning materials on the app, and there is little to no way to keep track of notes or progress within the app
+2. A "chord grouping" feature that would allow users to minimize stress when viewing an overwhelming amount of new information. The group feature would allow users to note any difficult material that they wish to review, document, or save for later. 
+    - The chord library is an extremely helpful tool for ukulele learners, however the feature itself can be overwhelming. In addition, a chord grouping feature would allow users to easily store chord variations without having to manually and individually search for them.
+3. A more intuitive design for the "chord library" tool that more closely matches the real world and industry standards. 
+    - The chord library tool utilizes a lot of unintutive features such as swiping down rather than right to view the next chord variation. In addition, users must tap on a music note (a button that lacks signifiers for an interaction) to switch to a new chord.
+
+With this in mind, I broke these features down into **four tasks**:
+1. Create a new notebook
+2. Add a tutorial to the notebook
+3. Add a chord to a new group
+4. View the variations of a different chord in the chord library tool
 
 ## Prototype
 ![IMG_1595](https://user-images.githubusercontent.com/102703477/166606314-863a92b8-adb9-44da-8101-9637596345da.PNG)
