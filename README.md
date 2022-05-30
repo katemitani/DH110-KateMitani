@@ -14,6 +14,15 @@
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <script type="application/ld+json">{
 		"@context": "http://schema.org",
 		"@type": "Organization",
@@ -57,13 +66,13 @@
     </section>
     <section class="u-clearfix u-section-3" id="sec-1f07">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-clearfix u-expanded-width u-gutter-100 u-layout-wrap u-layout-wrap-1">
+        <div class="u-clearfix u-expanded-width-xl u-gutter-100 u-layout-wrap u-layout-wrap-1">
           <div class="u-layout">
             <div class="u-layout-col">
               <div class="u-size-60">
                 <div class="u-layout-row">
                   <div class="u-align-center u-container-style u-layout-cell u-left-cell u-size-60 u-layout-cell-1" src="">
-                    <div class="u-container-layout u-container-layout-1">
+                    <div class="u-container-layout u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-1">
                       <h2 class="u-custom-font u-font-playfair-display u-text u-text-1">Design Statement</h2>
                       <p class="u-custom-font u-font-montserrat u-text u-text-2">
                         <span style="font-weight: 700;"></span><b>
@@ -86,12 +95,12 @@
             <div class="u-layout-col">
               <div class="u-size-30">
                 <div class="u-layout-row">
-                  <div class="u-align-left u-container-style u-layout-cell u-left-cell u-radius-50 u-size-15 u-layout-cell-1" src="">
+                  <div class="u-align-left u-container-style u-layout-cell u-left-cell u-radius-50 u-size-15-xl u-size-16-lg u-size-16-md u-size-16-sm u-size-16-xs u-layout-cell-1" src="">
                     <div class="u-container-layout u-valign-middle u-container-layout-1">
-                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="./image.png" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
+                      <img class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="image.png" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
                     </div>
                   </div>
-                  <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-45 u-layout-cell-2">
+                  <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-44-lg u-size-44-md u-size-44-sm u-size-44-xs u-size-45-xl u-layout-cell-2">
                     <div class="u-container-layout u-valign-middle u-container-layout-2">
                       <h2 class="u-custom-font u-font-playfair-display u-text u-text-1">Competitor Analysis: Heuristic Evaluation</h2>
                       <p class="u-custom-font u-font-montserrat u-text u-text-2">
@@ -122,7 +131,7 @@
                   </div>
                   <div class="u-container-style u-layout-cell u-right-cell u-size-17 u-layout-cell-4" src="">
                     <div class="u-container-layout u-valign-middle u-container-layout-4">
-                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-2" src="image1.png" data-image-width="739" data-image-height="1600" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment02">
+                      <img class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-2" src="image1.png" data-image-width="739" data-image-height="1600" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment02">
                     </div>
                   </div>
                 </div>
@@ -221,7 +230,8 @@
                   </div>
                   <div class="u-container-style u-layout-cell u-left-cell u-radius-50 u-size-20 u-layout-cell-2" src="">
                     <div class="u-container-layout u-container-layout-2">
-                      <img class="u-expanded-width u-hover-feature u-image u-image-round u-radius-50 u-border-grey-25 u-border-2 u-image-1" src="166641311-4f9c4540-6b6d-4553-a013-9da4d9c0c4c5.jpg" data-image-width="2323" data-image-height="1665" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment05">
+                      <img class="u-expanded-width u-hidden-lg u-hover-feature u-image u-image-round u-radius-50 u-border-grey-25 u-border-2 u-image-1" src="166641311-4f9c4540-6b6d-4553-a013-9da4d9c0c4c5.jpg" data-image-width="2323" data-image-height="1665" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment05">
+                      <img class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-hover-feature u-image u-image-round u-radius-50 u-border-grey-15 u-border-2 u-image-2" src="166641311-4f9c4540-6b6d-4553-a013-9da4d9c0c4c51.jpg" alt="" data-image-width="2323" data-image-height="1665">
                     </div>
                   </div>
                 </div>
@@ -230,7 +240,7 @@
                 <div class="u-layout-row">
                   <div class="u-container-style u-hover-feature u-layout-cell u-radius-50 u-right-cell u-size-25 u-layout-cell-3" src="" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
                     <div class="u-container-layout u-valign-middle u-container-layout-3">
-                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-2" src="ScreenShot2022-05-30at2.18.05AM.png" data-image-width="652" data-image-height="554" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
+                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-3" src="ScreenShot2022-05-30at2.18.05AM.png" data-image-width="652" data-image-height="554" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
                     </div>
                   </div>
                   <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-35 u-layout-cell-4">
@@ -253,9 +263,10 @@
       
       
       
+      
     </section>
     <section class="u-clearfix u-section-7" id="sec-eca5">
-      <div class="u-clearfix u-sheet u-sheet-1">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
         <div class="u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1">
           <div class="u-layout">
             <div class="u-layout-col">
@@ -344,3 +355,4 @@
     </section>
   </body>
 </html>
+
