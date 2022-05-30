@@ -238,9 +238,9 @@
               </div>
               <div class="u-size-30">
                 <div class="u-layout-row">
-                  <div class="u-container-style u-hover-feature u-layout-cell u-radius-50 u-right-cell u-size-25 u-layout-cell-3" src="" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
+                  <div class="u-container-style u-hover-feature u-layout-cell u-radius-50 u-right-cell u-size-25 u-layout-cell-3" src="" data-href="https://www.figma.com/file/XTNQjEGBevrlYfaMBBQryM/DH110-Prototype?node-id=38%3A20">
                     <div class="u-container-layout u-valign-middle u-container-layout-3">
-                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-2" src="ScreenShot2022-05-30at2.18.05AM.png" data-image-width="652" data-image-height="554" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
+                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-2" src="ScreenShot2022-05-30at2.18.05AM.png" data-image-width="652" data-image-height="554" data-href="https://www.figma.com/file/XTNQjEGBevrlYfaMBBQryM/DH110-Prototype?node-id=38%3A20">
                     </div>
                   </div>
                   <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-35 u-layout-cell-4">
@@ -286,7 +286,7 @@
                       <a href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment07" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-1">learn more</a>
                     </div>
                   </div>
-                  <div class="u-container-style u-hover-feature u-layout-cell u-left-cell u-radius-50 u-size-14 u-layout-cell-2" src="" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment07">
+                  <div class="u-container-style u-hover-feature u-layout-cell u-left-cell u-radius-50 u-size-14 u-layout-cell-2" src="" data-href="https://www.figma.com/proto/XTNQjEGBevrlYfaMBBQryM/DH110-Prototype?node-id=145%3A3737&scaling=contain&page-id=144%3A2601&starting-point-node-id=145%3A3737">
                     <div class="u-container-layout u-valign-middle u-container-layout-2">
 			<div class="embed-responsive embed-responsive-16by9">
 				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXTNQjEGBevrlYfaMBBQryM%2FDH110-Prototype%3Fnode-id%3D145%253A3737%26scaling%3Dmin-zoom%26page-id%3D144%253A2601%26starting-point-node-id%3D145%253A3737" allowfullscreen></iframe>
@@ -338,21 +338,5 @@
       <style data-mode="MD"></style>
       <style data-mode="SM"></style>
       <style data-mode="XS"></style>
-    </section>
     
-    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-bd63"><div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the Text Element.</p>
-      </div></footer>
-    <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
-        <span>Website Templates</span>
-      </a>
-      <p class="u-text">
-        <span>created with</span>
-      </p>
-      <a class="u-link" href="" target="_blank">
-        <span>Website Builder Software</span>
-      </a>. 
-    </section>
-  </body>
 </html>
