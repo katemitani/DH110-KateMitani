@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html style="font-size: 16px;">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,8 +13,16 @@
     <meta name="generator" content="Nicepage 4.11.3, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
-   
-   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <script type="application/ld+json">{
 		"@context": "http://schema.org",
 		"@type": "Organization",
@@ -24,7 +32,7 @@
     <meta property="og:title" content="Home">
     <meta property="og:type" content="website">
   </head>
-  <body class="u-body u-xl-mode">
+  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-xl-mode">
     <section class="u-align-center u-clearfix u-gradient u-section-1" id="sec-e113">
       <div class="u-clearfix u-sheet u-sheet-1">
         <h1 class="u-custom-font u-font-playfair-display u-text u-text-default u-title u-text-1">DH110: UX Research and Design</h1>
@@ -68,8 +76,8 @@
                       <h2 class="u-custom-font u-font-playfair-display u-text u-text-1">Design Statement</h2>
                       <p class="u-custom-font u-font-montserrat u-text u-text-2">
                         <span style="font-weight: 700;"></span><b>
-                          <span style="font-weight: 400;">Through </span>
-                          <span style="font-weight: 400;">the process of user experience evaluation and testing, I identified a few usability concerns for the Ukulele App. To begin, the app contains a lot of information but is difficult and time consuming to navigate. For example, many of the resources are nested within pages, requiring a user to undo/return multiple times to navigate back to the main home page or switch to a different page. In addition, the app makes it difficult to document progress or keep track of favorite materials. Finally, there are a few usability concerns relating to divergence from industry standards and real world controls. In my project, I aim to eliminate these concerns to create a more intuitive interface that supports an optimal learning environment.&nbsp;</span></b>
+                          <span style="font-weight: 400;">Through t</span>
+                          <span style="font-weight: 400;">he process of user experience evaluation and testing, I identified a few usability concerns for the Ukulele App. To begin, the app contains a lot of information but is difficult and time consuming to navigate. For example, many of the resources are nested within pages, requiring a user to undo/return multiple times to navigate back to the main home page or switch to a different page. In addition, the app makes it difficult to document progress or keep track of favorite materials. Finally, there are a few usability concerns relating to divergence from industry standards and real world controls. In my project, I aim to eliminate these concerns to create a more intuitive interface that supports an optimal learning environment.&nbsp;</span></b>
                       </p>
                     </div>
                   </div>
@@ -88,9 +96,8 @@
               <div class="u-size-30">
                 <div class="u-layout-row">
                   <div class="u-align-left u-container-style u-layout-cell u-left-cell u-radius-50 u-size-15 u-layout-cell-1" src="">
-                    <div class="u-container-layout u-valign-top u-container-layout-1">
-                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="image.png" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
-                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
+                    <div class="u-container-layout u-container-layout-1">
+                      <img class="u-expanded-height u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="image.png" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
                     </div>
                   </div>
                   <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-45 u-layout-cell-2">
@@ -139,8 +146,8 @@
     <section class="u-clearfix u-section-5" id="sec-0afa">
       <div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout">
-            <div class="u-layout-col">
+          <div class="u-layout" style="">
+            <div class="u-layout-col" style="">
               <div class="u-size-30">
                 <div class="u-layout-row">
                   <div class="u-container-style u-layout-cell u-left-cell u-size-1 u-layout-cell-1" src="">
@@ -162,8 +169,8 @@
                   </div>
                 </div>
               </div>
-              <div class="u-size-30">
-                <div class="u-layout-row">
+              <div class="u-size-30" style="">
+                <div class="u-layout-row" style="">
                   <div class="u-container-style u-layout-cell u-left-cell u-size-20 u-layout-cell-3" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment04">
                     <div class="u-container-layout u-container-layout-3">
                       <img class="u-expanded-height u-hover-feature u-image u-image-round u-radius-50 u-image-1" src="1.png" data-image-width="1131" data-image-height="1600" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment04">
@@ -229,13 +236,11 @@
               </div>
               <div class="u-size-30">
                 <div class="u-layout-row">
-			<div class="u-container-style u-layout-cell u-left-cell u-size-28 u-layout-cell-4" data-href="https://github.com/katemitani/DH110-				Spring22/tree/main/Assignment06">
-				<div class="u-container-layout u-container-layout-3">
-                      			<img class="u-expanded-height u-hover-feature u-image u-image-round u-radius-50 u-image-2" src="ScreenShot2022-05-30at2.18.05AM.png" data-image-width="652" data-image-height="554" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
-                    			</div>
-			
-			
-      
+                  <div class="u-container-style u-hover-feature u-layout-cell u-radius-50 u-right-cell u-size-28 u-layout-cell-3" src="" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
+                    <div class="u-container-layout u-valign-middle u-container-layout-3">
+                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-2" src="ScreenShot2022-05-30at2.18.05AM.png" data-image-width="652" data-image-height="554" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
+                    </div>
+                  </div>
                   <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-32 u-layout-cell-4">
                     <div class="u-container-layout u-valign-top u-container-layout-4">
                       <h2 class="u-custom-font u-font-playfair-display u-text u-text-3">Interface Design</h2>
@@ -255,6 +260,7 @@
       </div>
       
       
+      
     </section>
     <section class="u-clearfix u-section-7" id="sec-eca5">
       <div class="u-clearfix u-sheet u-sheet-1">
@@ -263,7 +269,7 @@
             <div class="u-layout-col">
               <div class="u-size-60">
                 <div class="u-layout-row">
-                  <div class="u-align-right u-container-style u-layout-cell u-right-cell u-size-42 u-layout-cell-1">
+                  <div class="u-align-right u-container-style u-layout-cell u-right-cell u-size-46 u-layout-cell-1">
                     <div class="u-container-layout u-container-layout-1">
                       <h2 class="u-custom-font u-font-playfair-display u-text u-text-1">High Fidelity Prototype</h2>
                       <p class="u-custom-font u-font-montserrat u-text u-text-2">
@@ -278,8 +284,10 @@
                       <a href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment07" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-1">learn more</a>
                     </div>
                   </div>
-                  <div class="u-container-style u-hover-feature u-image u-layout-cell u-left-cell u-radius-50 u-size-18 u-image-1" src="ScreenShot2022-05-30at2.19.51AM.png" data-image-width="768" data-image-height="926" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment07">
-                    <div class="u-container-layout u-container-layout-2"></div>
+                  <div class="u-container-style u-hover-feature u-layout-cell u-left-cell u-radius-50 u-size-14 u-layout-cell-2" src="" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment07">
+                    <div class="u-container-layout u-container-layout-2">
+                      <img class="u-expanded-height u-hover-feature u-image u-image-round u-radius-50 u-image-1" src="ScreenShot2022-05-30at2.19.51AM.png" data-image-width="768" data-image-height="926" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment07">
+                    </div>
                   </div>
                 </div>
               </div>
@@ -287,6 +295,7 @@
           </div>
         </div>
       </div>
+      
       
     </section>
     <section class="u-align-center u-clearfix u-section-8" id="sec-f213">
