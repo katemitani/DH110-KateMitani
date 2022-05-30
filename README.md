@@ -14,15 +14,6 @@
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
     <script type="application/ld+json">{
 		"@context": "http://schema.org",
 		"@type": "Organization",
@@ -97,7 +88,7 @@
                 <div class="u-layout-row">
                   <div class="u-align-left u-container-style u-layout-cell u-left-cell u-radius-50 u-size-15 u-layout-cell-1" src="">
                     <div class="u-container-layout u-valign-middle u-container-layout-1">
-                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="image.png" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
+                      <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-border-grey-15 u-border-2 u-image-1" src="./image.png" data-image-width="1125" data-image-height="2166" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment01">
                     </div>
                   </div>
                   <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-45 u-layout-cell-2">
