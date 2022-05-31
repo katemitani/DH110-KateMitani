@@ -305,7 +305,7 @@
         <h1 class="u-custom-font u-font-playfair-display u-text u-text-default-xl u-text-1">Video Pitch</h1>
         <div class="u-align-left u-expanded-width-sm u-expanded-width-xs u-video u-video-1">
           <div class="embed-responsive embed-responsive-1">
-            <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" class="embed-responsive-item" src="https://www.youtube.com/embed/L-hm3S1aSnI?mute=0&amp;showinfo=0&amp;controls=0&amp;start=0" frameborder="0" allowfullscreen=""></iframe>
+            <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" class="embed-responsive-item" src="https://vimeo.com/715474609" frameborder="0" allowfullscreen=""></iframe>
           </div>
         </div>
       </div>
