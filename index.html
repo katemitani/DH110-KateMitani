@@ -238,7 +238,7 @@
               </div>
               <div class="u-size-30">
                 <div class="u-layout-row">
-                  <div class="u-container-style u-hover-feature u-layout-cell u-radius-50 u-right-cell u-size-25 u-layout-cell-3" src="" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment06">
+                  <div class="u-container-style u-hover-feature u-layout-cell u-radius-50 u-right-cell u-size-25 u-layout-cell-3" src="" data-href="https://www.figma.com/file/XTNQjEGBevrlYfaMBBQryM/DH110-Prototype?node-id=38%3A20">
                     <div class="u-container-layout u-valign-middle u-container-layout-3">
                       <img class="u-hover-feature u-image u-image-round u-preserve-proportions u-radius-50 u-image-2" src="ScreenShot2022-05-30at2.18.05AM.png" data-image-width="652" data-image-height="554" data-href="https://www.figma.com/file/XTNQjEGBevrlYfaMBBQryM/DH110-Prototype?node-id=38%3A20">
                     </div>
@@ -286,7 +286,7 @@
                       <a href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment07" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-1">learn more</a>
                     </div>
                   </div>
-                  <div class="u-container-style u-hover-feature u-layout-cell u-left-cell u-radius-50 u-size-14-xl u-size-18-lg u-size-18-md u-size-18-sm u-size-18-xs u-layout-cell-2" src="" data-href="https://github.com/katemitani/DH110-Spring22/tree/main/Assignment07">
+                  <div class="u-container-style u-hover-feature u-layout-cell u-left-cell u-radius-50 u-size-14-xl u-size-18-lg u-size-18-md u-size-18-sm u-size-18-xs u-layout-cell-2" src="" data-href="https://www.figma.com/proto/XTNQjEGBevrlYfaMBBQryM/DH110-Prototype?node-id=145%3A3737&amp;scaling=contain&amp;page-id=144%3A2601&amp;starting-point-node-id=145%3A3737">
                     <div class="u-container-layout u-valign-middle u-container-layout-2">
                       <img class="u-expanded-width u-hover-feature u-image u-image-round u-radius-50 u-image-1" src="ScreenShot2022-05-30at2.19.51AM.png" data-image-width="768" data-image-height="926" data-href="https://www.figma.com/proto/XTNQjEGBevrlYfaMBBQryM/DH110-Prototype?node-id=145%3A3737&amp;scaling=contain&amp;page-id=144%3A2601&amp;starting-point-node-id=145%3A3737">
                     </div>
